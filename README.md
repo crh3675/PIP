@@ -1,5 +1,7 @@
 #PIP
 
+Forked by Craig R. Hoover from https://github.com/gilbitron/PIP.git 2011-06-01
+
 PIP is a tiny application framework built for people who use a LAMP stack. PIP aims to be as simple as possible to set up and use.
 
 Visit [http://gilbitron.github.com/PIP](http://gilbitron.github.com/PIP/) for more information and documentation.
